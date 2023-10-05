@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "sim900", "sim900\sim900.cproj", "{1C187181-4F85-45B5-B4A1-783A91215563}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C187181-4F85-45B5-B4A1-783A91215563}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1C187181-4F85-45B5-B4A1-783A91215563}.Debug|AVR.Build.0 = Debug|AVR
+		{1C187181-4F85-45B5-B4A1-783A91215563}.Release|AVR.ActiveCfg = Release|AVR
+		{1C187181-4F85-45B5-B4A1-783A91215563}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
