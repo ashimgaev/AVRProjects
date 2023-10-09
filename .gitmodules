@@ -1,0 +1,3 @@
+[submodule "external/avr-library"]
+	path = external/avr-library
+	url = https://github.com/ashimgaev/AVR-Library
