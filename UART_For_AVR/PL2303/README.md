@@ -2,7 +2,7 @@
 # PL2303 - USB to COM преобразователь
 
 ## Проблема с драйвером
-![enter image description here](Screenshot.png)
+![enter image description here](driver_error.png)
 
 ## Описание проблемы
 https://kamrc.ru/index.php?topic=1911.0
