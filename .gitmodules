@@ -1,3 +1,6 @@
 [submodule "external/avr-library"]
 	path = external/avr-library
 	url = https://github.com/ashimgaev/AVR-Library
+[submodule "external/avr-uart-lib"]
+	path = external/avr-uart-lib
+	url = https://github.com/ashimgaev/AVR-UART-lib
