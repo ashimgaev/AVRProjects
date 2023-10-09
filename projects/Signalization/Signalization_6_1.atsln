@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Signalization", "Signalization\Signalization_6_1.cproj", "{176C6FA4-FF8A-4404-A5A3-73F04B0710E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176C6FA4-FF8A-4404-A5A3-73F04B0710E0}.Debug|AVR.ActiveCfg = Debug|AVR
+		{176C6FA4-FF8A-4404-A5A3-73F04B0710E0}.Debug|AVR.Build.0 = Debug|AVR
+		{176C6FA4-FF8A-4404-A5A3-73F04B0710E0}.Release|AVR.ActiveCfg = Release|AVR
+		{176C6FA4-FF8A-4404-A5A3-73F04B0710E0}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
